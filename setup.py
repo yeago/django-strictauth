@@ -3,12 +3,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='django-metatags',
+    name='django-strictauth',
     version="0.0",
     author='Steve Yeago',
     author_email='subsume@gmail.com',
-    description='Managing metatags in Django',
-    url='http://github.com/subsume/django-metatags',
+    description='Strict authentication in Django',
+    url='http://github.com/subsume/django-strictauth',
     packages=find_packages(),
     include_package_data=True,
     classifiers=[
