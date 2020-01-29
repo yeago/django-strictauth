@@ -1,4 +1,4 @@
-from django.contrib.auth import logou
+from django.contrib.auth import logout
 
 from django.utils.deprecation import MiddlewareMixin
 
